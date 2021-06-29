@@ -1,1 +1,3 @@
-# ts-project
+# TS Project
+
+TS project template
