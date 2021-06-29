@@ -1,0 +1,17 @@
+{
+  "name": "ts-project",
+  "version": "0.0.0",
+  "description": "typescript project template",
+  "main": "dist/index.js",
+  "repository": "https://github.com/IsAmrish/ts-project.git",
+  "author": "isamrish <askmaurya48@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "tslint": "^6.1.3",
+    "typescript": "^4.3.4"
+  }
+}
